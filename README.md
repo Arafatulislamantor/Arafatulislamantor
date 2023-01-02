@@ -18,7 +18,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arafatulislamantor&theme=darkhub" alt="Arafatulislamantor" /></a> </p>
 
 <img align="center" width="400" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Arafatulislamantor&cache_seconds=86400&custom_title=Languages&langs_count=10&layout=compact&show_icons=true&theme=darkhub"/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arafatulislamantor&show_icons=true" alt="Arafatulislamantor" />
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arafatulislamantor&show_icons=true" alt="Arafatulislamantor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arafatulislamantor&" alt="Arafatulislamantor" /></p>
 
