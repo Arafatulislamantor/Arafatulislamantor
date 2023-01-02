@@ -4,6 +4,8 @@
 
 <p align="center">আসসালামু আলাইকুম | Assalamualaikum
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Prosto+One&duration=4500&pause=1000&center=true&vCenter=true&width=435&lines=Hello!!+%F0%9F%96%90;My+Name+is+Arafat...;I'm+A+Developer+and+a+Learner...!!!;Feel+Free+to+Get+in+Touch...!%F0%9F%99%82+;Nice+To+Meet+You...!" alt="Arafatulislamantor" /></a>
+
 ## <p align="center">📌 Socials
 
 [![Arafat's Facebook](https://github.com/Arafatulislamantor/Arafatulislamantor/blob/0ceb1c910ac9b071533d2d8add354af71ddcada0/Images/Facebook%20Logo.png)](https://www.facebook.com/Arfatulislamantor?)
