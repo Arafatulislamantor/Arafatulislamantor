@@ -12,7 +12,10 @@
 
 `ᗩraƒaԵմL íՏLam(ᗩղԵor)`
 
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Arafatulislamantor&cache_seconds=86400&custom_title=Arafatulislamantor&include_all_commits=true&hide=prs,contribs&show_icons=true&theme=prussian"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arafatulislamantor&show_icons=true&theme=prussian" alt="Arafatulislamantor" />
+
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Arafatulislamantor&cache_seconds=86400&custom_title=Arafatulislamantor&include_all_commits=true&hide=prs,contribs&show_icons=true&theme=great-gatsby"/>
+
 <img align="center" width="400" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Arafatulislamantor&cache_seconds=86400&custom_title=Languages&langs_count=10&layout=compact&show_icons=true&theme=prussian"/>
 
 <a href="https://github.com/Arafatulislamantor"><img src="contributions.svg"></a>
